@@ -1,3 +1,7 @@
+# Demo
+
+Parts of this project were inspired by and utilize code from the 'exchange-rate' example found in the 'vanillawebprojects' repository by Brad Traversy. The original example can be accessed at <https://github.com/bradtraversy/vanillawebprojects/tree/master/exchange-rate>. We acknowledge and appreciate the contributions made by Brad Traversy in sharing these useful resources.
+
 ## Exchange Rate
 
 Select countries to get the exchange rate for a specific amount
